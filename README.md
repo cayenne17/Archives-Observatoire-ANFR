@@ -1,18 +1,29 @@
 # Archives-Observatoire-ANFR
 
 2021 :
-Mercredi 29 Décembre 2021 : https://data.anfr.fr/sites/default/files/dataset/20211229090931_observatoire_2g_3g_4g.csv
+Mercredi 29 Décembre 2021 :
+https://data.anfr.fr/sites/default/files/dataset/20211229090931_observatoire_2g_3g_4g.csv
 2022 :
-Vendredi 07 Janvier 2022 : https://data.anfr.fr/sites/default/files/dataset/20220107142934_observatoire_2g_3g_4g.csv
-Vendredi 14 Janvier 2022 : https://data.anfr.fr/sites/default/files/dataset/20220114122324_observatoire_2g_3g_4g.csv
-Vendredi 21 Janvier 2022 : https://data.anfr.fr/sites/default/files/dataset/20220121115222_observatoire_2g_3g_4g.csv
-Vendredi 28 Janvier 2022 : https://data.anfr.fr/sites/default/files/dataset/20220128100736_observatoire_2g_3g_4g.csv
-Vendredi 04 Février 2022 : https://data.anfr.fr/sites/default/files/dataset/20220204144529_observatoire_2g_3g_4g.csv
-Mardi 08 Février 2022 : https://data.anfr.fr/sites/default/files/dataset/20220208171458_observatoire_2g_3g_4g.csv
-Vendredi 11 Février 2022 : https://data.anfr.fr/sites/default/files/dataset/20220211111811_observatoire_2g_3g_4g.csv
-Vendredi 11 Février 2022 : https://data.anfr.fr/sites/default/files/dataset/20220211113829_observatoire_2g_3g_4g.csv
-Vendredi 18 Février 2022 : https://data.anfr.fr/sites/default/files/dataset/20220218113520_observatoire_2g_3g_4g.csv
-Vendredi 25 Février 2022 : https://data.anfr.fr/sites/default/files/dataset/20220225140846_observatoire_2g_3g_4g.csv
+Vendredi 07 Janvier 2022 :
+https://data.anfr.fr/sites/default/files/dataset/20220107142934_observatoire_2g_3g_4g.csv
+Vendredi 14 Janvier 2022 :
+https://data.anfr.fr/sites/default/files/dataset/20220114122324_observatoire_2g_3g_4g.csv
+Vendredi 21 Janvier 2022 :
+https://data.anfr.fr/sites/default/files/dataset/20220121115222_observatoire_2g_3g_4g.csv
+Vendredi 28 Janvier 2022 :
+https://data.anfr.fr/sites/default/files/dataset/20220128100736_observatoire_2g_3g_4g.csv
+Vendredi 04 Février 2022 :
+https://data.anfr.fr/sites/default/files/dataset/20220204144529_observatoire_2g_3g_4g.csv
+Mardi 08 Février 2022 :
+https://data.anfr.fr/sites/default/files/dataset/20220208171458_observatoire_2g_3g_4g.csv
+Vendredi 11 Février 2022 :
+https://data.anfr.fr/sites/default/files/dataset/20220211111811_observatoire_2g_3g_4g.csv
+Vendredi 11 Février 2022 :
+https://data.anfr.fr/sites/default/files/dataset/20220211113829_observatoire_2g_3g_4g.csv
+Vendredi 18 Février 2022 :
+https://data.anfr.fr/sites/default/files/dataset/20220218113520_observatoire_2g_3g_4g.csv
+Vendredi 25 Février 2022 :
+https://data.anfr.fr/sites/default/files/dataset/20220225140846_observatoire_2g_3g_4g.csv
 Lundi 07 Mars 2022 : https://data.anfr.fr/sites/default/files/dataset/20220307123334_observatoire_2g_3g_4g.csv
 Vendredi 11 Mars 2022 : https://data.anfr.fr/sites/default/files/dataset/20220311130515_observatoire_2g_3g_4g.csv
 Vendredi 18 Mars 2022 : https://data.anfr.fr/sites/default/files/dataset/20220318143221_observatoire_2g_3g_4g.csv
