@@ -31,3 +31,4 @@ Vendredi 10 Juin 2022 : https://data.anfr.fr/sites/default/files/dataset/2022061
 Vendredi 17 Juin 2022 : https://data.anfr.fr/sites/default/files/dataset/20220617103248_observatoire_2g_3g_4g.csv<br>
 Vendredi 24 Juin 2022 : https://data.anfr.fr/sites/default/files/dataset/20220624114211_observatoire_2g_3g_4g.csv<br>
 Vendredi 01 Juillet 2022 : https://data.anfr.fr/sites/default/files/dataset/20220701122051_observatoire_2g_3g_4g.csv<br>
+Vendredi 08 Juillet 2022 : https://data.anfr.fr/sites/default/files/dataset/20220708150949_observatoire_2g_3g_4g.csv<br>
