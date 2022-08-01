@@ -34,3 +34,4 @@
 [Vendredi 08 Juillet 2022](https://data.anfr.fr/sites/default/files/dataset/20220708150949_observatoire_2g_3g_4g.csv)  
 [Lundi 18 Juillet 2022](https://data.anfr.fr/sites/default/files/dataset/20220718121019_observatoire_2g_3g_4g.csv)  
 [Vendredi 22 Juillet 2022](https://data.anfr.fr/sites/default/files/dataset/20220722105910_observatoire_2g_3g_4g.csv)  
+[Lundi 01 Août 2022](https://data.anfr.fr/sites/default/files/dataset/20220801112447_observatoire_2g_3g_4g.csv)  
