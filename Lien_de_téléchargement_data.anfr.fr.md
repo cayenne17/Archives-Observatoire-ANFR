@@ -59,3 +59,4 @@
 [Vendredi 30 Décembre 2022](https://data.anfr.fr/sites/default/files/dataset/20221230093026_observatoire_2g_3g_4g.csv)  
 #### 2023 :
 [Vendredi 06 Janvier 2023](https://data.anfr.fr/sites/default/files/dataset/20230106100009_observatoire_2g_3g_4g.csv)  
+[Vendredi 13 Janvier 2023](https://data.anfr.fr/sites/default/files/dataset/20230113103834_observatoire_2g_3g_4g.csv)  
