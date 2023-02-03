@@ -41,7 +41,7 @@
 [Vendredi 26 Août 2022](https://data.anfr.fr/sites/default/files/dataset/20220826121312_observatoire_2g_3g_4g.csv)  
 [Vendredi 02 Septembre 2022](https://data.anfr.fr/sites/default/files/dataset/20220902114716_observatoire_2g_3g_4g.csv)  
 [Vendredi 09 Septembre 2022](https://data.anfr.fr/sites/default/files/dataset/20220909115429_observatoire_2g_3g_4g.csv)  
-[Vendredi 16 Septembre 2022] Buguer (https://data.anfr.fr/sites/default/files/dataset/20220916095958_observatoire_2g_3g_4g.csv)  
+[Vendredi 16 Septembre 2022] (https://data.anfr.fr/sites/default/files/dataset/20220916095958_observatoire_2g_3g_4g.csv) Buguer  
 [Vendredi 23 Septembre 2022](https://data.anfr.fr/sites/default/files/dataset/20220923095239_observatoire_2g_3g_4g.csv)  
 [Vendredi 30 Septembre 2022](https://data.anfr.fr/sites/default/files/dataset/20220930100456_observatoire_2g_3g_4g.csv)  
 [Vendredi 07 Octobre 2022](https://data.anfr.fr/sites/default/files/dataset/20221007094429_observatoire_2g_3g_4g.csv)  
@@ -62,3 +62,4 @@
 [Vendredi 13 Janvier 2023](https://data.anfr.fr/sites/default/files/dataset/20230113103834_observatoire_2g_3g_4g.csv)  
 [Vendredi 20 Janvier 2023](https://data.anfr.fr/sites/default/files/dataset/20230120094652_observatoire_2g_3g_4g.csv)  
 [Jeudi 26 Janvier 2023](https://data.anfr.fr/sites/default/files/dataset/20230126181639_observatoire_2g_3g_4g.csv)  
+[Vendredi 03 Février 2023](https://data.anfr.fr/sites/default/files/dataset/20230203093546_observatoire_2g_3g_4g.csv) Buguer  
