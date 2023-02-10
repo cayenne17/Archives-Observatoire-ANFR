@@ -63,3 +63,4 @@
 [Vendredi 20 Janvier 2023](https://data.anfr.fr/sites/default/files/dataset/20230120094652_observatoire_2g_3g_4g.csv)  
 [Jeudi 26 Janvier 2023](https://data.anfr.fr/sites/default/files/dataset/20230126181639_observatoire_2g_3g_4g.csv)  
 [Vendredi 03 Février 2023](https://data.anfr.fr/sites/default/files/dataset/20230203093546_observatoire_2g_3g_4g.csv) Moins de lignes que la dernière MAJ du Jeudi 26 Janvier 2023 car plus de suppression que de nouveaux projets  
+[Vendredi 10 Février 2023](https://data.anfr.fr/sites/default/files/dataset/20230210103340_observatoire_2g_3g_4g.csv)  
