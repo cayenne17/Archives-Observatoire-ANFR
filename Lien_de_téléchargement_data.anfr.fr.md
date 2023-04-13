@@ -72,3 +72,4 @@
 Vendredi 24 Mars 2023 (pas de CSV sans filtre)  
 [Jeudi 30 Mars 2023](https://data.anfr.fr/sites/default/files/dataset/20230330160145_observatoire_2g_3g_4g.csv)  
 [Jeudi 06 Avril 2023](https://data.anfr.fr/sites/default/files/dataset/20230406183424_observatoire_2g_3g_4g.csv)  
+[Jeudi 13 Avril 2023](https://data.anfr.fr/sites/default/files/dataset/20230413183656_observatoire_2g_3g_4g.csv)  
