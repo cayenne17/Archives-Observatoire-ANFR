@@ -105,3 +105,5 @@ Vendredi 24 Mars 2023 (pas de CSV sans filtre)
 [Jeudi 26 Octobre 2023](https://data.anfr.fr/sites/default/files/dataset/20231026154633_observatoire_2g_3g_4g.csv)  
 [Jeudi 02 Novembre 2023](https://data.anfr.fr/sites/default/files/dataset/20231102172147_observatoire_2g_3g_4g.csv)  
 [Jeudi 09 Novembre 2023](https://data.anfr.fr/sites/default/files/dataset/20231109160129_observatoire_2g_3g_4g.csv) (bug : contenu identique au 2 Novembre 2023)  
+[Vendredi 10 Novembre 2023](https://data.anfr.fr/sites/default/files/dataset/20231110142411_observatoire_2g_3g_4g.csv)  
+[Vendredi 10 Novembre 2023](https://data.anfr.fr/sites/default/files/dataset/20231110144746_observatoire_2g_3g_4g.csv)  Contenu identique que "20231110142411_observatoire_2g_3g_4g.csv"
