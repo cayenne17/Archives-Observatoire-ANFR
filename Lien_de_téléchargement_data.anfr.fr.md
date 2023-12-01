@@ -113,4 +113,7 @@ Vendredi 24 Mars 2023 (pas de CSV sans filtre)
 [Jeudi 23 Novembre 2023](https://data.anfr.fr/sites/default/files/dataset/20231123163224_observatoire_2g_3g_4g.csv)  
 ###### Vendredi 24 Novembre 2023, changement séparateurs de colonnes (`;` au lieu de `,`)
 [Vendredi 24 Novembre 2023](https://data.anfr.fr/sites/default/files/dataset/20231124151009_observatoire_2g_3g_4g.csv)  
+
 [Jeudi 30 Novembre 2023](https://data.anfr.fr/sites/default/files/dataset/20231130145329_observatoire_2g_3g_4g.csv)  
+[Vendredi 01 Décembre 2023](https://data.anfr.fr/sites/default/files/dataset/20231201092024_observatoire_2g_3g_4g.csv)  
+[Vendredi 01 Décembre 2023](https://data.anfr.fr/sites/default/files/dataset/20231201120605_observatoire_2g_3g_4g.csv)  
