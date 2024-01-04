@@ -106,7 +106,7 @@ Vendredi 24 Mars 2023 (pas de CSV sans filtre)
 [Jeudi 02 Novembre 2023](https://data.anfr.fr/sites/default/files/dataset/20231102172147_observatoire_2g_3g_4g.csv)  
 [Jeudi 09 Novembre 2023](https://data.anfr.fr/sites/default/files/dataset/20231109160129_observatoire_2g_3g_4g.csv) (bug : contenu identique au 2 Novembre 2023)  
 [Vendredi 10 Novembre 2023](https://data.anfr.fr/sites/default/files/dataset/20231110142411_observatoire_2g_3g_4g.csv)  
-[Vendredi 10 Novembre 2023](https://data.anfr.fr/sites/default/files/dataset/20231110144746_observatoire_2g_3g_4g.csv)  Contenu identique que "20231110142411_observatoire_2g_3g_4g.csv"  
+[Vendredi 10 Novembre 2023](https://data.anfr.fr/sites/default/files/dataset/20231110144746_observatoire_2g_3g_4g.csv)  Contenu identique au fichier "20231110142411_observatoire_2g_3g_4g.csv"  
 [Jeudi 16 Novembre 2023](https://data.anfr.fr/sites/default/files/dataset/20231116152702_observatoire_2g_3g_4g.csv)  
 ###### Mercredi 22 Novembre 2023, MàJ du site data.anfr.fr + des séparateurs de colonnes (`,` au lieu de `;`). Changement format date : 
 [Mercredi 22 Novembre 2023](https://data.anfr.fr/sites/default/files/dataset/20231122122425_observatoire_2g_3g_4g.csv)  
@@ -123,3 +123,8 @@ Vendredi 24 Mars 2023 (pas de CSV sans filtre)
 [Jeudi 21 Décembre 2023 (même nombre de lignes que semaine précédente)](https://data.anfr.fr/sites/default/files/dataset/20231221150414_observatoire_2g_3g_4g.csv)  
 [Jeudi 21 Décembre 2023](https://data.anfr.fr/sites/default/files/dataset/20231221182352_observatoire_2g_3g_4g.csv)  
 [Jeudi 28 Décembre 2023](https://data.anfr.fr/sites/default/files/dataset/20231228143658_observatoire_2g_3g_4g.csv)  
+
+#### 2024 :
+[Jeudi 04 Janvier 2024 (20240104145915)](https://data.anfr.fr/sites/default/files/dataset/20240104145915_observatoire_2g_3g_4g.csv)  Contenu identique au fichier "20240104170049_observatoire_2g_3g_4g.csv"
+[Jeudi 04 Janvier 2024 (20240104163239)](https://data.anfr.fr/sites/default/files/dataset/20240104163239_observatoire_2g_3g_4g.csv)  
+[Jeudi 04 Janvier 2024 (20240104170049)](https://data.anfr.fr/sites/default/files/dataset/20240104170049_observatoire_2g_3g_4g.csv)  Contenu identique au fichier "20240104145915_observatoire_2g_3g_4g.csv"
