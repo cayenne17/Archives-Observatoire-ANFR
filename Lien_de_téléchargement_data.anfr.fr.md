@@ -137,3 +137,4 @@ Vendredi 24 Mars 2023 (pas de CSV sans filtre)
 [Vendredi 02 Février 2024](https://data.anfr.fr/sites/default/files/dataset/20240202091822_observatoire_2g_3g_4g.csv)  
 [Jeudi 08 Février 2024](https://data.anfr.fr/sites/default/files/dataset/20240208151003_observatoire_2g_3g_4g.csv)  Contenu identique au fichier semaine précédente "20240202091822_observatoire_2g_3g_4g.csv"
 [Jeudi 08 Février 2024](https://data.anfr.fr/sites/default/files/dataset/20240208162427_observatoire_2g_3g_4g.csv)  
+[Vendredi 16 Février 2024](https://data.anfr.fr/sites/default/files/dataset/20240216112747_observatoire_2g_3g_4g.csv)  
