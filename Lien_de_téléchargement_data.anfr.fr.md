@@ -144,3 +144,4 @@ Vendredi 24 Mars 2023 (pas de CSV sans filtre)
 [Vendredi 01 Mars 2024 à 13h39](https://data.anfr.fr/sites/default/files/dataset/20240301120649_observatoire_2g_3g_4g.csv) nombre de lignes identique même à la semaine précédente. Juste des allumages/extinctions. pas d'ajouts/suppressions  
 [Jeudi 07 Mars 2024](https://data.anfr.fr/sites/default/files/dataset/20240307162028_observatoire_2g_3g_4g.csv)  
 [Jeudi 14 Mars 2024](https://data.anfr.fr/sites/default/files/dataset/20240314192117_observatoire_2g_3g_4g.csv)  
+[Jeudi 21 Mars 2024](https://data.anfr.fr/sites/default/files/dataset/20240321161754_observatoire_2g_3g_4g.csv)  
