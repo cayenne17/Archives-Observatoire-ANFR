@@ -155,3 +155,4 @@ Vendredi 24 Mars 2023 (pas de CSV sans filtre)
 Semeine 19, pas de MàJ (Jeudi de l'Ascension)  
 [Jeudi 16 Mai 2024](https://data.anfr.fr/sites/default/files/dataset/20240516184923_observatoire_2g_3g_4g.csv) fichier CSV complet qui contient uniquement l'entête (pas de données).  
 [Jeudi 16 Mai 2024](https://data.anfr.fr/sites/default/files/dataset/20240516185252_observatoire_2g_3g_4g.csv)  
+[Vendredi 24 Mai 2024](https://data.anfr.fr/sites/default/files/dataset/20240524085447_observatoire_2g_3g_4g.csv)  
