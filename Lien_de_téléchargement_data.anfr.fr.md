@@ -195,3 +195,8 @@ Semeine 19, pas de MàJ (Jeudi de l'Ascension)
 [Vendredi 13 Décembre 2024 /2024/20241213_observatoire_2g_3g_4g__generated_via_filters.7z](https://github.com/cayenne17/Archives-Observatoire-ANFR/blob/main/2024/20241213_observatoire_2g_3g_4g__generated_via_filters.7z)   (généré via les filtres sans lignes manquantes)  
 [Vendredi 13 Décembre 2024](https://data.anfr.fr/sites/default/files/dataset/20241214191003_observatoire_2g_3g_4g.csv)   (généré Samedi 14 Décembre 2024 et manque 500 ligne(comme souvent))  
 [Vendredi 20 Décembre 2024](https://data.anfr.fr/sites/default/files/dataset/20241220105742_observatoire_2g_3g_4g.csv)  
+Semeine 52, pas de MàJ (Noël)  
+
+#### 2025 :
+Semeine 01, pas de MàJ (Jour de l'an)  
+[Jeudi 09 Janvier 2025](https://data.anfr.fr/sites/default/files/dataset/20250109155832_observatoire_2g_3g_4g.csv)  
