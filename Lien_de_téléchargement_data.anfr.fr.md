@@ -200,3 +200,4 @@ Semeine 52, pas de MàJ (Noël)
 #### 2025 :
 Semeine 01, pas de MàJ (Jour de l'an)  
 [Jeudi 09 Janvier 2025](https://data.anfr.fr/sites/default/files/dataset/20250109155832_observatoire_2g_3g_4g.csv)  
+[Vendredi 17 Janvier 2025](https://data.anfr.fr/sites/default/files/dataset/20250117094349_observatoire_2g_3g_4g.csv)  
