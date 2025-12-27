@@ -258,3 +258,6 @@ Semeine 22, pas de MàJ (pont de l'Ascension)
 [Jeudi 04 Décembre 2025 (généré le 2025-12-04) (dataset 2025-12-04)](https://data.anfr.fr/sites/default/files/dataset/20251204164639_observatoireod_20251204.csv) (semaine 49 2025)  
 [Jeudi 11 Décembre 2025 (généré le 2025-12-11) (dataset 2025-12-11)](https://data.anfr.fr/sites/default/files/dataset/20251211151057_observatoireod_20251211.csv) (semaine 50 2025)  
 [Jeudi 18 Décembre 2025 (généré le 2025-12-18) (dataset 2025-12-18)](https://data.anfr.fr/sites/default/files/dataset/20251218150746_observatoireod_20251218.csv) (semaine 51 2025)  
+Jeudi 25 Décembre 2025 (généré le 2025-12-25) (dataset 2025-12-25) : Pas de fichiers CSV construit par l'ANFR. J'ai dû le télécharger via des filtres [Jeudi 25 Décembre 2025 /2025/20251225000000_observatoireod_20251225.7z](https://github.com/cayenne17/Archives-Observatoire-ANFR/blob/main/2025/20251225000000_observatoireod_20251225.7z) (semaine 51 2025)  
+
+#### 2026 :
