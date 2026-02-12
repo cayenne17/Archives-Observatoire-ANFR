@@ -267,3 +267,4 @@ Jeudi 25 Décembre 2025 (généré le 2025-12-25) (dataset 2025-12-25) : Pas de 
 [Jeudi 22 Janvier 2026 (généré le 2026-01-22) (dataset 2026-01-22)](https://data.anfr.fr/sites/default/files/dataset/20260122151309_observatoireod_20260122.csv) (semaine 04 2026)  
 [Jeudi 29 Janvier 2026 (généré le 2026-01-29) (dataset 2026-01-29)](https://data.anfr.fr/sites/default/files/dataset/20260129153811_observatoireod_20260129.csv) (semaine 05 2026)  
 [Jeudi 05 Février 2026 (généré le 2026-02-05) (dataset 2026-02-05)](https://data.anfr.fr/sites/default/files/dataset/20260205180454_observatoireod_20260205.csv) (semaine 06 2026)  
+[Jeudi 12 Février 2026 (généré le 2026-02-12) (dataset 2026-02-12)](https://data.anfr.fr/sites/default/files/dataset/20260212180327_observatoireod_20260212.csv) (semaine 07 2026)  
