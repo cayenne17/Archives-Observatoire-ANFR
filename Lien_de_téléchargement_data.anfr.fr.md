@@ -278,3 +278,4 @@ Jeudi 25 Décembre 2025 (généré le 2025-12-25) (dataset 2025-12-25) : Pas de 
 [Vendredi 03 Avril 2026 (généré le 2026-04-03) (dataset 2026-04-03)](https://data.anfr.fr/sites/default/files/dataset/20260403154829_observatoireod_20260403.csv) (semaine 14 2026) => correction MàJ jeudi 03 Avril.  
 [Jeudi 09 Avril 2026 (généré le 2026-04-09) (dataset 2026-04-09)](https://data.anfr.fr/sites/default/files/dataset/20260409170133_observatoireod_20260409.csv) (semaine 15 2026)  
 [Jeudi 16 Avril 2026 (généré le 2026-04-16) (dataset 2026-04-16)](https://data.anfr.fr/sites/default/files/dataset/20260416170646_observatoireod_20260416.csv) (semaine 16 2026)  
+[Jeudi 23 Avril 2026 (généré le 2026-04-23) (dataset 2026-04-23)](https://data.anfr.fr/sites/default/files/dataset/20260423170443_observatoireod_20260423.csv) (semaine 17 2026)  
