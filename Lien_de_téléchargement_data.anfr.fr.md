@@ -284,3 +284,4 @@ Jeudi 30 Avril 2026 (généré le 2026-04-30) (dataset 2026-04-30) : Pas de fich
 [Jeudi 14 Mai 2026 (généré le 2026-05-14) (dataset 2026-05-14)](https://data.anfr.fr/sites/default/files/dataset/20260514170321_observatoireod_20260514.csv) (semaine 20 2026)  
 [Jeudi 21 Mai 2026 (généré le 2026-05-21) (dataset 2026-05-21)](https://data.anfr.fr/sites/default/files/dataset/20260521170225_observatoireod_20260521.csv) (semaine 21 2026)  
 [Jeudi 28 Mai 2026 (généré le 2026-05-29) (dataset 2026-05-28)](https://data.anfr.fr/sites/default/files/dataset/20260529073336_observatoireod_20260528.csv) (semaine 22 2026)  
+[Jeudi 04 Juin 2026 (généré le 2026-06-04) (dataset 2026-06-04)](https://data.anfr.fr/sites/default/files/dataset/20260604170610_observatoireod_20260604.csv) (semaine 23 2026)  
